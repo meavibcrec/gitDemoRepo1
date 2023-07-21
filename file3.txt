@@ -2,3 +2,6 @@ File3 is added after pushing to repository gitDemoRepo1
 File3 is added after pushing to repository gitDemoRepo1
 File3 is added after pushing to repository gitDemoRepo1
 File3 is added after pushing to repository gitDemoRepo1
+
+File 3
+File 3.
